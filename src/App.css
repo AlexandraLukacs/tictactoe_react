@@ -28,14 +28,12 @@
   color: #61dafb;
 }
 
-article {
+.jatekter {
   display: grid;
   grid-template-columns: repeat(3, 60px);
   width: 180px;
   margin: auto;
 }
-
-
 
 @keyframes App-logo-spin {
   from {
